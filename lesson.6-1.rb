@@ -41,3 +41,5 @@ equal_square = Equal_square.new("赤",10)
 triangle.display_area
 square.display_area
 equal_square.display_area
+
+puts "大城翔吾です"
